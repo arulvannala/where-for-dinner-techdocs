@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: where-for-dinner-techdocs
+  annotations:
+    github.com/project-slug: arulvannala/where-for-dinner-techdocs
+spec:
+  type: other
+  lifecycle: unknown
+  owner: default
